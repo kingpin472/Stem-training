@@ -57,6 +57,10 @@ functions
 #lesson10.py
 Object oriented programmes
 
+#WEEK 3
+#lesson11.py
+##graphhical user interface
+##revision
 #week  1:introduction to programming
 
 #week  2:Electronics and innovation
